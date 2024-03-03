@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">2Android).Activity and Intent</string>
+    <string name="TextViewMain">Головна активність</string>
+    <string name="TextViewFirst">Перша активність</string>
+    <string name="TextViewSecond">Друга активність</string>
+    <string name="btn1">Кнопка один</string>
+    <string name="btn2">Кнопка два</string>
+    <string name="SecActbutton">Повернутись назад</string>
+</resources>

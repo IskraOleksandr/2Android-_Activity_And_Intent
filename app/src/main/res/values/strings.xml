@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">2Android}.-Activity and Intent</string>
+    <string name="TextViewMain">Main Activity</string>
+    <string name="TextViewFirst">First Activity</string>
+    <string name="TextViewSecond">Second Activity</string>
+    <string name="btn1">Button1</string>
+    <string name="btn2">Button2</string>
+    <string name="SecActbutton">Go back</string>
+</resources>
